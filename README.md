@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/Omar8345"><img src="https://github.com/Omar8345/Omar8345/blob/master/devcard.svg" width="400" alt="Omar Moustafa's Dev Card"/></a>
+
 ### Hi there 👋
 
 ### Omar Moustafa is just right here. Thanks for taking a look on my profile, let me give you a brief about me.
