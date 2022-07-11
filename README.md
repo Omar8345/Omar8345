@@ -16,6 +16,8 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android" /></code>
+		<code><img height="50" src="https://www.vhv.rs/dpng/d/442-4428823_python-logo-hd-png-download.png" alt="Python" title="Python" /></code>
+
 </div>
 
 <a href="https://app.daily.dev/Omar8345"><img src="https://github.com/Omar8345/Omar8345/blob/main/devcard.svg" width="400" alt="Omar Moustafa's Dev Card"/></a>
