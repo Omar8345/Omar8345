@@ -28,14 +28,31 @@
 
 ### I am Omar. A programmer from Egypt, in Africa. Located and based in the Dubai, UAE.
 
-### Points about me
+### What I am working on
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning JS
-- 👯 I’m looking to collaborate on WebX (FAX Browser)
-- 🤔 I’m looking for help with Python Tkinter & PyQT5
-- 💬 Ask me about programming
-- 📫 How to reach me: omar.moustafa@toolsandapps4us.site
-- 😄 Pronouns: Mr Programmer.
-- ⚡ Fun fact: A young programming hobbyist
+```
+- authstar.me (it's a secret!)
+- codeguard.tech (code obfuscation tool)
+```
 
+## What things am I proud of
+ 
+Hopefully, I am so proud of **CodeGuard** repo ([Omar8345/CodeGuard](https://github.com/Omar8345/CodeGuard)) also in my team we are proud of **WebX**, which is a light browser made using Python ([Jiusoft/WebX](https://github.com/Jiusoft/WebX)).
+
+## Contact me!
+
+### Discord:
+
+![Discord (UXA Dev#8246)](https://discord.c99.nl/widget/theme-3/860081559788453898.png)
+
+### LinkedIn
+
+[**@omar-the-dev**](https://www.linkedin.com/in/omar-the-dev/)
+
+## Twitter
+
+[**@DevOmar100**](https://twitter.com/DevOmar100)
+
+## My Blog
+
+[**Omar Dev Blog**](https://omardevblog.toolsandapps4us.site/)
