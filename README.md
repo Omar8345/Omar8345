@@ -26,7 +26,7 @@
 
 ### Omar Moustafa is just right here. Thanks for taking a look on my profile, let me give you a brief about me.
 
-### I am Omar. A full=stack developer and software developer.
+### I am Omar. A full-stack developer and software developer.
 
 ### What I am working on
 
