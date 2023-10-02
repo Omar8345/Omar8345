@@ -43,7 +43,7 @@ Hopefully, I am so proud of **CodeGuard** repo ([Omar8345/CodeGuard](https://git
 
 ### Discord:
 
-![Discord (UXA Dev#8246)](https://discord.c99.nl/widget/theme-3/860081559788453898.png)
+![Discord (@habibiyaomar)](https://discord.c99.nl/widget/theme-3/1088268043664228352.png)
 
 ### LinkedIn
 
