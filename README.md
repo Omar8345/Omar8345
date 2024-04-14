@@ -1,58 +1,52 @@
-![](https://komarev.com/ghpvc/?username=Omar8345)
+![Hey there, I'm Omar. I'm a full-stack developer and a Python enthusiast!](https://github.com/Omar8345/Omar8345/blob/main/banner.png)
 
-<div>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121302773-7aa5d680-c8fa-11eb-98aa-e016fdb2de32.png" alt="InteliJ" title="InteliJ" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png" alt="React" title="React" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png" alt="TypeScript" title="TypeScript" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401894-8f658700-c959-11eb-9b6a-ea075be637d6.png" alt="yarn" title="yarn" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" title="Maven" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android" /></code>
-		<code><img height="50" src="https://www.vhv.rs/dpng/d/442-4428823_python-logo-hd-png-download.png" alt="Python" title="Python" /></code>
+<div align="center">
 
+
+[![GitHub followers](https://img.shields.io/github/followers/Omar8345?logo=GitHub&style=for-the-badge)](https://github.com/Omar8345) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/Omar8345?logo=github&style=for-the-badge)](https://github.com/Omar8345) &nbsp; [![Hashnode Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://omarcodes.io)
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) &nbsp; ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp; ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp; 
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp; ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) &nbsp;
 </div>
 
-<a href="https://app.daily.dev/Omar8345"><img src="https://github.com/Omar8345/Omar8345/blob/main/devcard.svg" width="400" alt="Omar Moustafa's Dev Card"/></a>
+<div align="center">
 
-### Hi there 👋
+# 👋 &nbsp;Hi there
 
-### Omar Moustafa is just right here. Thanks for taking a look on my profile, let me give you a brief about me.
+I'm a software developer based in the United Arab Emirates 🇦🇪. I enjoy coding open-source projects that solve unique, out-of-the-box problems. I love combining my hobbies like design, coding and building various cool projects with Raspberry Pi and IoT. Obsessed with Automation and Software Development. You can find me on Twitter [@DevOmar100](https://twitter.com/DevOmar100). Feel free to reach out to me at any time. You can also check out my website [omarcodes.io](https://omarcodes.io) for my blog and more.
 
-### I am Omar. A full-stack developer and software developer.
+&nbsp;
+	
+## 👇 &nbsp;Current project
 
-### What I am working on
+I'm currently working on **ticketX**. A blockchain-based solution for helping event hosts issue tickets at low costs and seamlessly. [Follow me](https://twitter.com/DevOmar100) feed to keep up with progress.
 
-```
-- authstar.me (it's a secret!)
-- codeguard.tech (code obfuscation tool)
-```
+&nbsp;
+## ✏️ &nbsp;Blog posts
 
-## What things am I proud of
- 
-Hopefully, I am so proud of **CodeGuard** repo ([Omar8345/CodeGuard](https://github.com/Omar8345/CodeGuard)) also in my team we are proud of **WebX**, which is a light browser made using Python ([Jiusoft/WebX](https://github.com/Jiusoft/WebX)).
+<!-- BLOG-POST-LIST:START -->
+- [The Future of Debugging with AI and Machine Learning](https://omarcodes.io/the-future-of-debugging-with-ai-and-machine-learning)
+- [How Hashnode AI helped me to write better](https://omarcodes.io/how-hashnode-ai-helped-me-to-write-better)
+- [Next-level Security: Passwordless Authentication with Prisma](https://omarcodes.io/next-level-security-passwordless-authentication-with-prisma)
+- [How to use ChatGPT-3 into Python](https://omarcodes.io/how-to-use-chatgpt-3-into-python)
+- [Streamlining Content Management with Gatsby and Cockpit CMS](https://omarcodes.io/streamlining-content-management-with-gatsby-and-cockpit-cms)
 
-## Contact me!
+<!-- BLOG-POST-LIST:END -->
 
-### Discord:
+&nbsp;
 
-![Discord (@habibiyaomar)](https://discord.c99.nl/widget/theme-3/1088268043664228352.png)
 
-### LinkedIn
+## 🖥 &nbsp;Past work
 
-[**@omar-the-dev**](https://www.linkedin.com/in/omar-the-dev/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=CodeGuard&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/CodeGuard) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=Medusa-Discord-Email-Notification-Pusher&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/Medusa-Discord-Email-Notification-Pusher)
 
-## Twitter
+&nbsp;
 
-[**@DevOmar100**](https://twitter.com/DevOmar100)
+## 📊 &nbsp;Stats
 
-## My Blog
+	
+![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar8345&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
-[**Omar Dev Blog**](https://omardevblog.toolsandapps4us.site/)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omar8345&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+</div>
