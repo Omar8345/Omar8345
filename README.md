@@ -39,7 +39,7 @@ I'm currently working on **ticketX**. A blockchain-based solution for helping ev
 
 ## 🖥 &nbsp;Past work
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=CodeGuard&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/CodeGuard) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=Medusa-Discord-Email-Notification-Pusher&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/Medusa-Discord-Email-Notification-Pusher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=CodeGuard&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/CodeGuard) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=Medusa-Discord-Email-Notification-Pusher&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/Medusa-Discord-Email-Notification-Pusher) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=smart-mirror&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/smart-mirror)
 
 &nbsp;
 
