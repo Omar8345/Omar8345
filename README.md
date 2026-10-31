@@ -1,69 +1,167 @@
-![Hey there, I'm Omar. I'm a full-stack developer and a Python enthusiast!](https://github.com/Omar8345/Omar8345/blob/main/banner.png)
+![Hey there, I'm Omar](https://raw.githubusercontent.com/Omar8345/Omar8345/main/banner.png)
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Omar8345?logo=GitHub&style=for-the-badge)](https://github.com/Omar8345) &nbsp; 
-[![GitHub Stars](https://img.shields.io/github/stars/Omar8345?logo=github&style=for-the-badge)](https://github.com/Omar8345) &nbsp; 
-[![Hashnode Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://omarcodes.io) &nbsp; 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DevOmar100) &nbsp;
+### hey, i'm omar 👋
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) &nbsp; 
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) &nbsp; 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) &nbsp; 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp; 
+**full-stack developer · AI & developer tools · open source**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp; 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp; 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp; 
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) &nbsp; 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) &nbsp;
+building useful things, exploring weird edge cases, and making software a little more reliable.
+
+based in the UAE 🇦🇪
+
+[![Website](https://img.shields.io/badge/Website-omarcodes.io-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://omarcodes.io)
+[![X](https://img.shields.io/badge/X-@DevOmar100-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DevOmar100)
+[![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://omarcodes.io)
+[![GitHub Followers](https://img.shields.io/github/followers/Omar8345?style=flat-square&logo=github&label=Followers)](https://github.com/Omar8345?tab=followers)
 
 </div>
 
-<div align="center">
+---
 
-# 👋 &nbsp;Hi there
+### a bit about me
 
-I'm a software developer based in the United Arab Emirates 🇦🇪. I enjoy coding open-source projects that solve unique, out-of-the-box problems. I love combining my hobbies like design, coding and building various cool projects with Raspberry Pi and IoT. Obsessed with Automation and Software Development.
+i'm a software developer who enjoys building things that solve real problems.
 
-&nbsp;
+lately, i've been exploring **AI agents, developer tooling, reliability engineering, and real-time applications**.
 
-## 🚀 &nbsp;Current Project
+i care about more than getting code to work. i like figuring out what happens when requests race, information changes, users make mistakes, or systems fail.
 
-[![ticketX 🚀](https://img.shields.io/badge/ticketX-Blockchain--powered-informational?style=for-the-badge&logo=ethereum&logoColor=white&color=6C47FF)]()
+outside of that, i'm into Python, automation, Raspberry Pi, IoT, and experimenting with new technologies.
 
-I'm currently working on **ticketX**, a blockchain-powered platform helping event hosts issue low-cost, seamless, and fraud-proof tickets.
+### featured projects
 
-🔗 [Follow my journey on Twitter](https://twitter.com/DevOmar100)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-&nbsp;
+**💊 [OneDose](https://github.com/Omar8345/onedose)**
 
-## ✏️ &nbsp;Blog posts
+*Shared care. One clear record.*
+
+Real-time caregiver coordination with concurrency-safe claims, auditable outcomes, corrections, and shared handoffs.
+
+**Next.js · TypeScript · Appwrite**
+
+[Live app](https://onedose.appwrite.network) · [Repository](https://github.com/Omar8345/onedose)
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 [Context Canary](https://github.com/Omar8345/context-canary)**
+
+*Your AI's knowledge changed. What breaks next?*
+
+Dependency-aware regression testing for AI agents when changing knowledge invalidates assumptions or evaluations.
+
+**JavaScript · Appwrite · MCP**
+
+[Repository](https://github.com/Omar8345/context-canary)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 [IMPACT](https://github.com/Omar8345/IMPACT)**
+
+*Know what a code change could break.*
+
+Graph-powered PR impact analysis that traces dependencies, identifies affected code, and selects relevant tests.
+
+**Python · FalkorDB**
+
+[Repository](https://github.com/Omar8345/IMPACT)
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ [CodeGuard](https://github.com/Omar8345/CodeGuard)**
+
+*Make source code harder to inspect.*
+
+My original open-source code obfuscation project for JavaScript and Python.
+
+**JavaScript · Python**
+
+[Repository](https://github.com/Omar8345/CodeGuard)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📋 [recode](https://github.com/Omar8345/recode)**
+
+*Save. Search. Share.*
+
+A lightweight code snippet manager with syntax highlighting and tag-based organization.
+
+**Next.js · TypeScript · Appwrite**
+
+[Repository](https://github.com/Omar8345/recode)
+
+</td>
+<td width="50%" valign="top">
+
+**📨 [Medusa Discord Email Notification Pusher](https://github.com/Omar8345/Medusa-Discord-Email-Notification-Pusher)**
+
+An integration that forwards Medusa.js order email notifications to Discord for easier order monitoring.
+
+**Medusa.js · Discord**
+
+[Repository](https://github.com/Omar8345/Medusa-Discord-Email-Notification-Pusher)
+
+</td>
+</tr>
+</table>
+
+### technologies i work with
+
+**languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**frameworks & tools**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+### writing
+
+i occasionally write about software development, AI, security, and things i learn while building.
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing IMPACT: Why Does This PR Actually Affect?](https://omarcodes.io/impact)
 - [The Future of Debugging with AI and Machine Learning](https://omarcodes.io/the-future-of-debugging-with-ai-and-machine-learning)
-- [How Hashnode AI helped me to write better](https://omarcodes.io/how-hashnode-ai-helped-me-to-write-better)
-- [Next-level Security: Passwordless Authentication with Prisma](https://omarcodes.io/next-level-security-passwordless-authentication-with-prisma)
-- [How to use ChatGPT-3 into Python](https://omarcodes.io/how-to-use-chatgpt-3-into-python)
-- [Streamlining Content Management with Gatsby and Cockpit CMS](https://omarcodes.io/streamlining-content-management-with-gatsby-and-cockpit-cms)
+- [Introducing recode: Your Personal Snippet Brain](https://omarcodes.io/recode)
 <!-- BLOG-POST-LIST:END -->
 
-&nbsp;
+### github stats
 
-## 🖥 &nbsp;Past work
+<div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=CodeGuard&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/CodeGuard) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=Medusa-Discord-Email-Notification-Pusher&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/Medusa-Discord-Email-Notification-Pusher) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omar8345&repo=smart-mirror&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Omar8345/smart-mirror)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Omar8345&show_icons=true&theme=github_dark&hide_border=true)
 
-&nbsp;
+</div>
 
-## 📊 &nbsp;Stats
+---
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omar8345&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omar8345&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+**building in public, learning along the way.**
 
-![Omar's Codewars Stats](https://www.codewars.com/users/omarcodes./badges/large)
+always happy to connect with people building interesting things.
+
+[website](https://omarcodes.io) · [x / twitter](https://x.com/DevOmar100) · [github](https://github.com/Omar8345)
 
 </div>
